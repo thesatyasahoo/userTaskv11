@@ -1,0 +1,13 @@
+.body {
+  height: 500px;
+  display: flex;
+}
+
+.table_container {
+  flex: 3;
+  position: relative;
+}
+
+.filter_container {
+  flex: 1;
+}
